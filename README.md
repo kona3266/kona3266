@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-kona's home #### [leetcode](https://leetcode.cn/u/kona3266-2/)
+kona's home  [leetcode](https://leetcode.cn/u/kona3266-2/)
 - 🌱 I’m currently learning network programming
 
