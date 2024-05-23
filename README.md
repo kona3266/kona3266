@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+kona's home
+#### [leetcode](https://leetcode.cn/u/kona3266-2/)
+
+* Problems solved: [[1]]
+* Easy: [[2]]
+* Medium: [[3]]
+* Hard: [[4]]
